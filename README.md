@@ -1,4 +1,4 @@
-# Numpy和Pandas的基础入门
+# Numpy和Pandas的基础入门（更新中）
 
 ## 这里简单归纳总结了一些数据处理中常用的功能及使用方法<p>
           教程均写在.ipynb文件上
@@ -13,6 +13,6 @@
                     
 ----------------------------------------------------------------------------------------------------
 
-更多内容请移步官方文档:<p>
-          Numpy:https://numpy.org/<p>
-          Pandas:https://pandas.pydata.org/
+更多内容请移步官方文档：<p>
+          Numpy：https://numpy.org/<p>
+          Pandas：https://pandas.pydata.org/
