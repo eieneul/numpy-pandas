@@ -16,7 +16,7 @@
 * [第三节：Summary functions & Maps](https://github.com/eieneul/numpy-pandas/blob/master/Pandas_03.ipynb)<p>
 * [第四节：Grouping & Sorting](https://github.com/eieneul/numpy-pandas/blob/master/Pandas_04.ipynb)<p>
 * [第五节：Data types & Missing values](https://github.com/eieneul/numpy-pandas/blob/master/Pandas_05.ipynb)<p>
-* [第六节：Renaming & Combining](https://github.com/eieneul/numpy-pandas/blob/master/Pandas_0.ipynb)<p>
+* [第六节：Renaming & Combining](https://github.com/eieneul/numpy-pandas/blob/master/Pandas_06.ipynb)<p>
 * [课后练习](https://github.com/eieneul/numpy-pandas/tree/master/Pandas%20%E7%BB%83%E4%B9%A0%E9%A2%98)<p>
 * [习题答案](https://github.com/eieneul/numpy-pandas/tree/master/Pandas%20%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88)<p>
 
